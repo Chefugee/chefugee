@@ -1,4 +1,4 @@
 Chefugee
 ========
 
-Chefugee website on github pages.
+Chefugee website when it was cool and on github pages.
